@@ -1,2 +1,2 @@
-# datamining
-Data Mining and Statistics 
+# OULAD Datamining Model
+Extracting insightful data using a machine learning model.  
